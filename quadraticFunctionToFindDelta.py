@@ -13,6 +13,6 @@ elif delta == 0:
     print('there is one result x0 = '), x0
     
 else:
-    print(('no result in reason the delta is negative '), delta)
+    print(('no result in reason of the delta is negative '), delta)
     
     
